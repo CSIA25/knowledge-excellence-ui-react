@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { 
@@ -8,7 +7,7 @@ import {
   FileText, 
   HeadphonesIcon, 
   Scissors, 
-  Hearts, 
+  Heart,
   BriefcaseIcon,
   MessageSquare,
   MapPin,
@@ -125,7 +124,7 @@ const TrainingsPage = () => {
       id: 4,
       title: "Healthcare Assistant",
       description: "Comprehensive training for healthcare assistant roles with international recognition.",
-      icon: <Hearts className="h-6 w-6 text-primary" />,
+      icon: <Heart className="h-6 w-6 text-primary" />,
       features: [
         "Patient care fundamentals",
         "Medical terminology",
@@ -270,6 +269,8 @@ const TrainingsPage = () => {
       image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=400&auto=format&fit=crop"
     }
   ];
+
+  externalTrainings[3].icon = <Heart className="h-6 w-6 text-primary" />;
 
   return (
     <div className="pt-20">
