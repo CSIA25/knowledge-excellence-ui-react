@@ -1,8 +1,25 @@
-# Welcome to your Lovable project
+
+# Knowledge Excellence
+
+A modern, responsive, and visually stunning website for Knowledge Excellence, a Nepal-based company focused on educational and professional development services with a global reach.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/71691008-4a2b-4d59-9c4b-fc5df422b548
+
+## Features
+
+- **School Consulting Services**: Comprehensive consulting for teachers and schools, including international teaching opportunities, school founding, teacher outsourcing, and IB integration.
+- **Global Scholarship Program**: Expert guidance for students seeking global scholarships. From assessment and profile building to exam preparation and visa interview training.
+- **Training Programs**: Specialized training programs for various professions including hospitality, healthcare, and PR services for countries like Australia, Canada, and the UK.
+
+## Technology Stack
+
+- **React**: Frontend library for building user interfaces
+- **TypeScript**: Static type-checking for JavaScript
+- **Tailwind CSS**: Utility-first CSS framework
+- **shadcn/ui**: Component library for React
+- **Lucide React**: Icon library
 
 ## How can I edit this code?
 
@@ -35,30 +52,6 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
 ## How can I deploy this project?
 
